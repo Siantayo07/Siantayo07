@@ -25,6 +25,7 @@ Outside of work, I bring the same mindset to security: thinking about how system
 - 🔐 Researching **poisoning attacks and defenses in federated learning**
 - 🛠️ Building small, deployable security tools
 - 🌱 Always learning: currently deepening my work at the intersection of **QA and security testing**
+- 🤖 Using and experimenting with agentic AI in my day-to-day work and coding projects, from generating and reviewing tests to automating repetitive engineering tasks
 
 ---
 
@@ -84,6 +85,9 @@ Adversarial machine learning · federated learning security · applied cryptogra
 
 **Tooling**
 Git · Docker · Docker Compose · Fly.io
+
+**AI-assisted engineering**
+Agentic AI coding assistants · AI-assisted test generation & code review · prompt design for development workflows
 
 ---
 
