@@ -4,8 +4,8 @@ I'm a Computer Science graduate with a Master's degree in Cybersecurity, with pr
 
 ## What I'm working on
 
-Developing and maintaining automated tests for software applications.
+- Developing and maintaining automated tests for software applications
 
-Exploring cybersecurity, applied cryptography, and machine learning security through personal and academic projects.
+- Exploring cybersecurity, applied cryptography, and machine learning security through personal and academic projects
 
 
