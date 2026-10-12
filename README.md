@@ -41,7 +41,7 @@ An adversarial ML study of how malicious clients can corrupt a federated learnin
 
 `Python` `scikit-learn` `pandas` `NumPy` `Federated Learning` `Adversarial ML`
 
-### 🧪 Automation.2
+### 🧪 [Automation.2](https://github.com/Siantayo07/Automation.2)
 
 My professional test automation work lives in private company repositories, so this project shows how I approach automated testing.
 
@@ -90,7 +90,7 @@ Git · Docker · Docker Compose · Fly.io
 ## 📫 Let's connect
 
 <!-- Replace with your real links, or delete the ones you don't use -->
-- 💼 LinkedIn: [your-profile](https://www.linkedin.com/in/your-profile)
-- 📧 Email: you@example.com
+- 💼 LinkedIn: [Purity Siantayo](https://www.linkedin.com/in/purity-siantayo/)
+- 📧 Email: TBD
 
 <p align="center"><i>Thanks for stopping by!</i></p>
