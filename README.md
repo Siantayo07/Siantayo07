@@ -41,6 +41,14 @@ An adversarial ML study of how malicious clients can corrupt a federated learnin
 
 `Python` `scikit-learn` `pandas` `NumPy` `Federated Learning` `Adversarial ML`
 
+### 🧪 Automation.2
+
+My professional test automation work lives in private company repositories, so this project shows how I approach automated testing.
+
+- End-to-end UI tests for a multi-step subscription and checkout flow, written in JavaScript with Selenium WebDriver, Mocha and Chai
+- Uses the Page Object Model: a reusable base page wraps waits and element lookups, and locators are kept in a separate module
+- Generates realistic test data with Faker so runs don't depend on hard-coded personal details
+
 ### 🧰 [Security Toybox](https://github.com/Siantayo07/security-toybox)
 A collection of small, containerised security tools deployed as live web apps behind a shared gateway.
 
