@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Siantayo</h1>
 <p align="center">
   <b>QA & Test Automation Engineer · MSc Cybersecurity</b><br/>
-  I make software reliable by testing it, and secure by trying to break it.
+  I make software reliable by testing it, and secure by trying to break it
 </p>
 
 <p align="center">
@@ -15,8 +15,6 @@
 
 ---
 
-## 🧭 About me
-
 I'm a Computer Science graduate with a **Master's degree in Cybersecurity** and professional experience in **test automation and software quality assurance**. My day-to-day work is building and maintaining automated test suites that catch problems before users do.
 
 Outside of work, I bring the same mindset to security: thinking about how systems fail, how they can be attacked, and how to make them more robust. My academic work spans **machine learning security**, **applied cryptography**, **hardware security**, and **programming language implementation**.
@@ -29,9 +27,9 @@ Outside of work, I bring the same mindset to security: thinking about how system
 
 ---
 
-## ⭐ Featured projects
+## Featured projects
 
-### 🧠 [Poisoning Attacks on Federated Fuzzy Regression Trees](https://github.com/Siantayo07/FederatedFuzzyRegressionTree-Attacks)
+### [Poisoning Attacks on Federated Fuzzy Regression Trees](https://github.com/Siantayo07/FederatedFuzzyRegressionTree-Attacks)
 An adversarial ML study of how malicious clients can corrupt a federated learning system, and how well robust aggregation holds up.
 
 - Extends the Federated Fuzzy Regression Tree framework (University of Pisa, AI Group) with an attack and defense layer
@@ -42,7 +40,7 @@ An adversarial ML study of how malicious clients can corrupt a federated learnin
 
 `Python` `scikit-learn` `pandas` `NumPy` `Federated Learning` `Adversarial ML`
 
-### 🧪 [Automation.2](https://github.com/Siantayo07/Automation.2)
+### [Test Automation](https://github.com/Siantayo07/Automation.2)
 
 My professional test automation work lives in private company repositories, so this project shows how I approach automated testing.
 
@@ -50,7 +48,7 @@ My professional test automation work lives in private company repositories, so t
 - Uses the Page Object Model: a reusable base page wraps waits and element lookups, and locators are kept in a separate module
 - Generates realistic test data with Faker so runs don't depend on hard-coded personal details
 
-### 🧰 [Security Toybox](https://github.com/Siantayo07/security-toybox)
+### [Security Toybox](https://github.com/Siantayo07/security-toybox)
 A collection of small, containerised security tools deployed as live web apps behind a shared gateway.
 
 - 🔑 **Password generator**: [live demo](https://passwrd-generator.fly.dev/)
@@ -61,18 +59,18 @@ A collection of small, containerised security tools deployed as live web apps be
 
 ---
 
-## 📂 More projects
+## Other projects
 
-| Project | What it is | Stack |
-|---|---|---|
-| [**Applied Cryptography**](https://github.com/Siantayo07/cryptography) | Practical exercises and crypto challenges from my MSc Applied Cryptography course: implementing and attacking cryptographic primitives | Python |
-| [**Hardware & Embedded Systems Security**](https://github.com/Siantayo07/Hardware-Embedded-Sysytems-Security) | Hardware design for a security-focused module, verified with testbenches in ModelSim and synthesised with Quartus for FPGA | VHDL · ModelSim · Quartus |
-| [**OCaml Interpreter**](https://github.com/Siantayo07/ocaml-interpreter) | An interpreter for a small programming language built in OCaml, covering parsing, environments and evaluation | OCaml |
-| [**Advanced Software Engineering**](https://github.com/Siantayo07/ase_cybersec) | Coursework project for the Advanced Software Engineering course in my Cybersecurity MSc | Python |
-
+- **Applied Cryptography** : Practical exercises and crypto challenges from my MSc Applied Cryptography course: implementing and attacking cryptographic primitives | Python | https://github.com/Siantayo07/cryptography
+  
+- **Hardware & Embedded Systems Security** : Hardware design for a security-focused module, verified with testbenches in ModelSim and synthesised with Quartus for FPGA | VHDL · ModelSim · Quartus | https://github.com/Siantayo07/Hardware-Embedded-Sysytems-Security
+  
+- **OCaml Interpreter** : Hardware design for a security-focused module, verified with testbenches in ModelSim and synthesised with Quartus for FPGA | VHDL · ModelSim · Quartus | https://github.com/Siantayo07/ocaml-interpreter
+  
+- **Advanced Software Engineering** : Coursework project for the Advanced Software Engineering course in my Cybersecurity MSc | Python | https://github.com/Siantayo07/ase_cybersec
 ---
 
-## 🛠️ Skills & tools
+## Skills & tools
 
 **Test automation & QA**
 Playwright · Cypress · end-to-end & regression testing · test design · CI integration
@@ -91,7 +89,7 @@ Agentic AI coding assistants · AI-assisted test generation & code review · pro
 
 ---
 
-## 📫 Let's connect
+## Let's connect
 
 <!-- Replace with your real links, or delete the ones you don't use -->
 - 💼 LinkedIn: [Purity Siantayo](https://www.linkedin.com/in/purity-siantayo/)
