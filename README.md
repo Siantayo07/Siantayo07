@@ -65,7 +65,7 @@ A collection of small, containerised security tools deployed as live web apps be
   
 - **Hardware & Embedded Systems Security** : Hardware design for a security-focused module, verified with testbenches in ModelSim and synthesised with Quartus for FPGA | VHDL · ModelSim · Quartus | https://github.com/Siantayo07/Hardware-Embedded-Sysytems-Security
   
-- **OCaml Interpreter** : Hardware design for a security-focused module, verified with testbenches in ModelSim and synthesised with Quartus for FPGA | VHDL · ModelSim · Quartus | https://github.com/Siantayo07/ocaml-interpreter
+- **OCaml Interpreter** : An interpreter for a small programming language built in OCaml, covering parsing, environments and evaluation | OCaml | https://github.com/Siantayo07/ocaml-interpreter
   
 - **Advanced Software Engineering** : Coursework project for the Advanced Software Engineering course in my Cybersecurity MSc | Python | https://github.com/Siantayo07/ase_cybersec
 ---
